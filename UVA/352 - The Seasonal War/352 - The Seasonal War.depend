@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605119067 source:/home/muhammed/Desktop/competitive-programming/UVA/352 - The Seasonal War/main.cpp
+	<iostream>
+	<vector>
+	<string>
+
